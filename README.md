@@ -4,15 +4,15 @@ A curated list of awesome P2P learning tutorials and resources.
 
 ## Table of contents
 
-- [Data strcutures](#data-structures)
-- [P2P projects](#p2p-projects)
-    - [File sharing](#file-sharing)
-    - [Streaming](#streaming)
-    - [Crypto currencies](#crypto-currencies)
+- [Data structures](#data-structures)
 - [Guides](#guides)
     - [Getting started](#getting-started)
     - [Network programming](#network-programming)
     - [Distributed systems](#distributed-systems)
+- [P2P projects](#p2p-projects)
+    - [File sharing](#file-sharing)
+    - [Streaming](#streaming)
+    - [Crypto currencies](#crypto-currencies)
 
 ### Data structures
 
