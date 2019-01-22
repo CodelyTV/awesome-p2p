@@ -9,6 +9,8 @@ A curated list of awesome P2P learning tutorials and resources.
     - [Getting started](#getting-started)
     - [Network programming](#network-programming)
     - [Distributed systems](#distributed-systems)
+- [Libraries](#libraries)
+    - [Node.js](#nodejs)
 - [P2P projects](#p2p-projects)
     - [File sharing](#file-sharing)
     - [Streaming](#streaming)
@@ -52,6 +54,15 @@ https://notes.shichao.io/unp/
 - Causal consistency
 - ...
 - https://en.wikipedia.org/wiki/Consistency_model
+
+## Libraries
+
+### Node.js
+
+- [hypercore](https://github.com/mafintosh/hypercore) Secure, distributed append-only log. Built for sharing large datasets and streams of real time data.
+- [hyperdrive](https://github.com/mafintosh/hyperdrive) Secure real time distributed file system.
+- [hyperdb](https://github.com/mafintosh/hyperdb) Distributed scalable key-value database.
+- [hyperdiscovery](https://github.com/karissa/hyperdiscovery) p2p swarm for hypercore, hyperdrive, and hyperdb feeds.
 
 ## P2P projects
 
