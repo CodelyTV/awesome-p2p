@@ -63,6 +63,7 @@ https://notes.shichao.io/unp/
 - [hyperdrive](https://github.com/mafintosh/hyperdrive) Secure real time distributed file system.
 - [hyperdb](https://github.com/mafintosh/hyperdb) Distributed scalable key-value database.
 - [hyperdiscovery](https://github.com/karissa/hyperdiscovery) p2p swarm for hypercore, hyperdrive, and hyperdb feeds.
+- [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 
 ## P2P projects
 
