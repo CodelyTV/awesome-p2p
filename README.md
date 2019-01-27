@@ -28,6 +28,7 @@ A curated list of awesome P2P learning tutorials and resources.
 ### Getting started
 
 - [P2P workswhop](https://github.com/mafintosh/p2p-workshop)
+- 📹 [Going offline with append only logs - lecture by Mathias Buus - Code Europe Spring 2017](https://www.youtube.com/watch?v=s-tFw7_lDt8&t=1725s)
 
 ### Network programming
 
