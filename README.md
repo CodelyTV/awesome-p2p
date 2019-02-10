@@ -4,14 +4,18 @@ A curated list of awesome P2P learning tutorials and resources.
 
 ## Table of contents
 
-- [Data structures](#data-structures)
-- [Guides](#guides)
+- [Awesome P2P](#awesome-p2p)
+  - [Table of contents](#table-of-contents)
+    - [Data structures](#data-structures)
+  - [Guides](#guides)
     - [Getting started](#getting-started)
     - [Network programming](#network-programming)
+      - [Web network programming technologies](#web-network-programming-technologies)
     - [Distributed systems](#distributed-systems)
-- [Libraries](#libraries)
+      - [Consistency models](#consistency-models)
+  - [Libraries](#libraries)
     - [Node.js](#nodejs)
-- [P2P projects](#p2p-projects)
+  - [P2P projects](#p2p-projects)
     - [File sharing](#file-sharing)
     - [Streaming](#streaming)
     - [Crypto currencies](#crypto-currencies)
@@ -47,6 +51,8 @@ https://notes.shichao.io/unp/
 - WebSocket
 
 ### Distributed systems
+
+- [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 
 #### Consistency models
 
