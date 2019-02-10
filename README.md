@@ -53,6 +53,7 @@ https://notes.shichao.io/unp/
 ### Distributed systems
 
 - [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 
 #### Consistency models
 
