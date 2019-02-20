@@ -36,21 +36,23 @@ A curated list of awesome P2P learning tutorials and resources.
 
 ### Network programming
 
-
-
 - [OSI model](https://en.wikipedia.org/wiki/OSI_model)
-- [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-- [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
-- [UTP](https://en.wikipedia.org/wiki/UDP_hole_punching)
-- [IP](https://en.wikipedia.org/wiki/Internet_Protocol)
+  - Transport layers
+    - [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+    - [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+    - [SCTP](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
+  - [IP](https://en.wikipedia.org/wiki/Internet_Protocol)
 - Sockets programming
   - [Unix network programming](https://notes.shichao.io/unp/)
-- UDP Hole punching
-  - 📹 [Mathias Buus - Internet of Peers](https://www.youtube.com/watch?v=1qzDiAg4VGk)
+- [NAT traversal](https://en.wikipedia.org/wiki/NAT_traversal)
+  - [UDP Hole punching](https://en.wikipedia.org/wiki/UDP_hole_punching)
+    - 📹 [Mathias Buus - Internet of Peers](https://www.youtube.com/watch?v=1qzDiAg4VGk)
 
 #### Web network programming technologies
 
-- WebRTC
+- [WebRTC](https://webrtc.org/)
+  - [WebRTC Specification](https://www.w3.org/TR/webrtc/)
+  - [Mozilla WebRTC documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 - WebSocket
 
 ### Distributed systems
